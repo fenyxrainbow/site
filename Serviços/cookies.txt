@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.edwardwomac.com	TRUE	/	FALSE	1999999999	SEOT	#1
+www.edwardwomac.com	TRUE	/	FALSE	1999999999	T	!!
+www.edwardwomac.com	TRUE	/	FALSE	1999999999	SEOV	#2
+.www.edwardwomac.com	TRUE	/	FALSE	1999999999	TS019733f2	0184cfe7a686ff27aad471f233eb833b0085a5adf37a8d5339001d9605a3df832496f004777d0fdb3a1131df60ff2525c106746005
+

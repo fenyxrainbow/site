@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 29 Mar 2023 17:50:29 at https://www.edwardwomac.com/personal-injury/car-accidents/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt, en, *" https://www.edwardwomac.com/personal-injury/car-accidents/ -O1 "C:\Os meus Sites\49" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:50:41	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/admin/
+17:50:41	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/admin/ to https://www.edwardwomac.com/personal-injury/car-accidents/
+17:50:41	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/usc/
+17:50:41	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/usc/ to https://www.edwardwomac.com/personal-injury/car-accidents/
+17:50:41	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/cms/
+17:50:41	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/cms/ to https://www.edwardwomac.com/personal-injury/car-accidents/
+17:50:51	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/uber-and-lyft-accidents/admin/
+17:50:51	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/uber-and-lyft-accidents/admin/ to https://www.edwardwomac.com/personal-injury/car-accidents/uber-and-lyft-accidents/
+17:50:51	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/uber-and-lyft-accidents/usc/
+17:50:51	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/uber-and-lyft-accidents/usc/ to https://www.edwardwomac.com/personal-injury/car-accidents/uber-and-lyft-accidents/
+17:50:51	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/uber-and-lyft-accidents/cms/
+17:50:51	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/uber-and-lyft-accidents/cms/ to https://www.edwardwomac.com/personal-injury/car-accidents/uber-and-lyft-accidents/
+17:50:51	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/distracted-drivers/admin/
+17:50:51	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/distracted-drivers/admin/ to https://www.edwardwomac.com/personal-injury/car-accidents/distracted-drivers/
+17:50:51	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/distracted-drivers/usc/
+17:50:51	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/distracted-drivers/usc/ to https://www.edwardwomac.com/personal-injury/car-accidents/distracted-drivers/
+17:50:51	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/distracted-drivers/cms/
+17:50:51	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/distracted-drivers/cms/ to https://www.edwardwomac.com/personal-injury/car-accidents/distracted-drivers/
+17:50:51	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/drunk-drivers/admin/
+17:50:51	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/drunk-drivers/admin/ to https://www.edwardwomac.com/personal-injury/car-accidents/drunk-drivers/
+17:50:51	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/drunk-drivers/usc/
+17:50:51	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/drunk-drivers/usc/ to https://www.edwardwomac.com/personal-injury/car-accidents/drunk-drivers/
+17:50:51	Warning: 	Moved Permanently for https://www.edwardwomac.com/personal-injury/car-accidents/drunk-drivers/cms/
+17:50:51	Warning: 	File has moved from https://www.edwardwomac.com/personal-injury/car-accidents/drunk-drivers/cms/ to https://www.edwardwomac.com/personal-injury/car-accidents/drunk-drivers/
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 33 links scanned, 20 files written (4887788 bytes overall) [3480820 bytes received at 145034 bytes/sec], 1784092 bytes transferred using HTTP compression in 11 files, ratio 19%
+(No errors, 24 warnings, 0 messages)
